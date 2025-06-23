@@ -1,0 +1,64 @@
+💡
+
+Ejercicios
+
+1. Cree un algoritmo para ver un video en Youtube. Sea lo más especifico posible.
+    
+    Respuesta:
+    
+    1.  Inicio
+    2. Si usa PC o Laptop:
+        1. Ingrese a la página web de Youtube
+    3. Sino, si usa Smart TV o teléfono celular:
+        1. Si no tiene instalada la app de Youtube:
+            1. Busque Youtube en su tienda de aplicaciones
+            2. Empiece a descargarla
+        2. Ingrese a la app de Youtube en su dispositivo
+    4. Si no tiene una cuenta de Youtube:
+        1. Siga las instrucciones para crear su cuenta 
+    5. Inicie sesión en su cuenta de Youtube
+    6. Busque en el navegador el vídeo que desea ver
+    7. Haga clic en el vídeo elegido
+    8. Fin
+
+2. Cree un algoritmo que describa su rutina diaria. Use condiciones, condiciones múltiples y ciclos.
+    
+    Respuesta:
+    
+    1. Inicio
+    2. Despierto con mi alarma
+    3. Desayuno
+    4. Realizo mi rutina de higiene personal
+    5. Si tengo clases:
+        1. Me preparo para ir a clases:
+            1. Alisto el uniforme
+            2. Me pongo el uniforme
+            3. Alisto mi almuerzo
+            4. Preparo mi mochila
+        2. Salgo para tomar mi ruta al colegio
+        3. Llego al colegio y voy a mi primer clase
+        4. Mientras no sea hora de almuerzo:
+            1. Asisto a mis clases
+        5. Me encuentro con mi amiga para almorzar
+    6. Sino:
+        1. Mientras no sea hora de almorzar:
+            1. Realizo mis deberes y lo que quiera hacer ese día
+        2. Cocino la comida que voy a almorzar
+    7. Como mi almuerzo
+    8. Si estoy en clases:
+        1. Mientras no sea hora de salida:
+            1. Asisto a mis clases
+        2. Salgo del colegio
+        3. Tomo mi ruta a casa
+        4. Llego a mi casa y entro
+        5. Me cambio el uniforme a ropa casual
+    9. Sino:
+        1. Mientras no sea hora de cenar:
+            1. Continúo con lo que hacía antes de almorzar
+    10. Preparo mi cena
+    11. Ceno
+    12. Mientras no sea mi hora de dormir:
+        1. Veo algún tipo de serie, película o streamer
+    13. Realizo mi rutina de higiene de la noche
+    14. Me acuesto a dormir
+    15. Fin
