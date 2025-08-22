@@ -6,11 +6,12 @@ def clear():
 
 def main():
     while True:
+        clear()
         n = menu.show_menu()
         if n == 1:
             input_students()
         elif n == 2:
-            show_students()
+            show_students(show_avg = False)
         elif n == 3:
             show_top()
         elif n == 4:
