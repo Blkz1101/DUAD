@@ -34,8 +34,11 @@ class Bus():
         else: return "El bus está lleno"
 
     def drop_off(self):
-        self.current_passengers -= 1
-        return self.passengers.pop(0)
+        if self.passengers:
+            self.current_passengers -= 1
+            return self.passengers.pop(0)
+        else:
+            return "El bus está vacío"
     
 '''Duplique el proyecto Sistema de Control de Estudiantes y modifíquelo para usar objetos para guardar la información de los estudiantes (creando una clase de Student).
 Hay que cambiar los estudiantes de diccionarios a objetos.
